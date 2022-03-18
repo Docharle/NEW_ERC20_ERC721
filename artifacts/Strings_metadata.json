@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "String operations.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ERC721_flat.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ERC721_flat.sol": {
+			"keccak256": "0x2ad67008d7c1d7b1317aaa4bca16aa73c15d8b9b72a81b7b371a9091ec22e5ac",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://8468797d9a89c6c34cbf79b8097d7f7cb77c29e6b6c1aa99d3f2a362e83c483d",
+				"dweb:/ipfs/QmXgDtf9ENtc6p9HzHciHtVDm7WUjyS7GAhXp9vJkY8DDj"
+			]
+		}
+	},
+	"version": 1
+}
