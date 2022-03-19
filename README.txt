@@ -1,3 +1,20 @@
+ERC721 CONTRACT ADDRESS: 0x95646CF19089Dc844Edb26ff45F9A64954986BC4
+ERC20 CONTRACT ADDRESS: 0x1d4033CD3E7c96f073b47B3b3eDf2B796714f3e2
+
+{
+  "name" : "Dols NFT",
+  "image" :"ipfs://bafkreidr3oyczihtr5hagt3banzxqefznfruvxdylydcor6dxb5jc5r3sq", 
+  "description": "My First NFT"
+     }
+     
+     {
+  "name" : "Dols NFT2",
+  "image" :"ipfs://bafybeia76spujzakzcqsrdn65nen64cununghqva2cdccou3sjadjjoeam", 
+  "description": "My Second NFT"
+     }
+     
+ IPFS LINK 1: ipfs.io/ipfs/bafkreibq6wkndlndism7qyrrzzbb76sbnhnqrzc7zfebidhm5wc5aeogj4
+ IPFS LINK 2: ipfs.io/ipfs/bafkreiddjnfqi3gjsl7uu5j7523jek52dv6zc2aao65v7lvuoyzez24hki
 REMIX EXAMPLE PROJECT
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
